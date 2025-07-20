@@ -1,48 +1,39 @@
-## Hi there 👋
-I'm Nicolas Bolaños Fernandez. Take a quick look at my profile
+## 👋 Hi, I'm Nicolas Bolaños Fernandez
 **Software Engineering & Industrial Engineering Student**
 
----
-I’m a dedicated student currently pursuing dual majors in Software Engineering and Industrial Engineering, giving me a unique multidisciplinary perspective on technology and processes.
+I'm pursuing dual degrees in Software and Industrial Engineering, giving me a multidisciplinary edge in designing both technical systems and efficient processes. I'm passionate about building practical solutions using strong fundamentals in both software and optimization.
 
-## Skills & Technologies
+---
+
+## 🛠️ Skills & Technologies
 
 - **Languages:** Python, SQL, C
-- **Frameworks & Libraries:**
-  - Extensive experience with `CustomTkinter` for modern Python GUIs
-  - Proficient in multi-threading with `pthreads` in C for high-performance applications
-- **Database Management:** Design and query optimization with SQL
-
-## Projects
-
-### ATUN — College Reservation Management System
-
-Worked as part of a team to design and implement ATUN, a software solution for managing reservations at my college. My contributions focused on:
-
-- Backend logic and database integration
-- User interface development in Python using CustomTkinter
-- Collaborative problem-solving and agile teamwork
-
-## What Makes Me Unique
-
-- Simultaneously studying two distinct engineering fields
-- Strong foundation in both process optimization and software development
-- Passionate about creating practical solutions for real-world problems
+- **Frameworks & Tools:**
+  - Modern GUI design with `CustomTkinter`
+  - High-performance multithreading using `pthreads` in C
+- **Databases:** Schema design and query optimization with SQL
 
 ---
 
-[LinkedIn: Nicolas Andres Bolaños Fernandez](https://www.linkedin.com/in/nicolas-andres-bola%C3%B1os-fernandez/)
-<!--
-**n-bolanos/n-bolanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+### ATUN — College Reservation Management System  
+A full-featured desktop app for managing room reservations at my college. Built in a team setting using Agile practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend logic & database integration
+- GUI in Python with CustomTkinter
+- Team collaboration & code review processes
+
+➡️ [Project repo (if public)](URL)
+
+---
+
+## 🎯 My Edge
+
+- Dual background in engineering and systems thinking
+- Balance of technical depth and process-driven design
+- Strong focus on usability and maintainable code
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolas-andres-bola%C3%B1os-fernandez/)
